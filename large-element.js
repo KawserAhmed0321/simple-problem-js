@@ -1,6 +1,6 @@
 function largestelement(number)
 {
-    let largest =0;
+    let largest =[0];
     for(let i=0;i < number.length;i++)
     {
         const element=number[i];
